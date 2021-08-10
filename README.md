@@ -1,6 +1,7 @@
 ### Hi, my name is Ivan Leontev 
 ### And I'm a Junior Software Developer 👷
-
+### And Junior Codewarrior
+![My Codewarrior Profile Badge](https://www.codewars.com/users/leswlz/badges/large)
 <!---
 - 👀 I’m interested in ...
 #- 🌱 I’m currently learning ...
