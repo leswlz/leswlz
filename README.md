@@ -1,5 +1,7 @@
 ### Hi, my name is Ivan Leontev 🤝
-### And I'm a QA Engineer 👷
+### I'm a QA Engineer 👷
+### Haven't updated my profile in a while ❌
+### I've been busy working 🏗️
 <!---
 - 👀 I’m interested in ...
 #- 🌱 I’m currently learning ...
